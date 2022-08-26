@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guia de laboratorio 3", "Gu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2", "..\App2\App2.csproj", "{43E2B637-4339-494F-B9A6-1EEAB29DFECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3", "..\App3\App3.csproj", "{9F4C2195-7FB5-425A-96A3-65ACC33A526B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{43E2B637-4339-494F-B9A6-1EEAB29DFECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43E2B637-4339-494F-B9A6-1EEAB29DFECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43E2B637-4339-494F-B9A6-1EEAB29DFECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4C2195-7FB5-425A-96A3-65ACC33A526B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4C2195-7FB5-425A-96A3-65ACC33A526B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4C2195-7FB5-425A-96A3-65ACC33A526B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4C2195-7FB5-425A-96A3-65ACC33A526B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
